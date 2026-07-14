@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Samir 👋
 
-<!--
-**samirG333/samirG333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at Unicorn University,
+passionate about building web applications and continually learning new technologies. 
 
-Here are some ideas to get you started:
+## 👨‍💻 Currently working on:
+* Expanding my knowledge of modern web development and software architecture.
+* Building a custom web application for a fitness trainer.
+* Developing a web app for a local craft business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Languages & Frameworks:** JavaScript, React, Next.js, Node.js, Express.js, HTML/CSS
+* **Tools:** Git, GitHub, VS Code
+* **Core Skills:** Web Development, Full-Stack Architecture
