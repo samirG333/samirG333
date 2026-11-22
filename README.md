@@ -1,64 +1,28 @@
 <div align="center">
 
-# Hi, I'm Samir 👋
+<img src="assets/hero.svg" width="100%" alt="Hi, I'm Samir Obeidat. I build things for the web. Software development student in Prague, working on CodeBook.">
 
-**Software Development student at Unicorn University · Prague**
-<br>
-I build web apps and like turning ideas into things people can actually use.
+<br><br>
+
+<a href="https://codebook-sandy.vercel.app"><img src="assets/codebook.svg" width="100%" alt="CodeBook: learn to code right in your browser. 257 tasks in 17 sections, 17 quizzes, 6 final projects."></a>
+
+<br><br>
+
+<a href="https://frantirybka.cz"><img src="assets/site-frantirybka.svg" width="48%" alt="frantirybka.cz: website for a personal fitness coach"></a>
+<a href="https://remeslnepracelukas.cz"><img src="assets/site-lukas.svg" width="48%" alt="remeslnepracelukas.cz: website for a plumbing, heating and mini-excavator business"></a>
+
+<br><br>
+
+<img src="assets/stack.svg" width="100%" alt="Tech I work with: TypeScript, JavaScript, React, Next.js, Vite, HTML, CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Prisma, Supabase, Git, GitHub, Docker, Kubernetes, Vercel, Linux, pnpm">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=samirG333&background=0B0C0F&border=1F2328&border_radius=22&stroke=2A2F37&ring=4ADE80&fire=4ADE80&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" width="58%" alt="GitHub streak">
+
+<br><br>
+
+<a href="https://github.com/samirG333"><img src="assets/btn-github.svg" height="52" alt="GitHub"></a>
+&nbsp;
+<a href="https://codebook-sandy.vercel.app"><img src="assets/btn-codebook.svg" height="52" alt="CodeBook"></a>
 
 </div>
-
-<br>
-
-## 🚀 What I'm working on
-
-
-
-### [CodeBook](https://codebook-sandy.vercel.app) — learn to code right in your browser
-
-A hands-on programming course with **257 tasks in 17 sections** — JavaScript, React, Python & FastAPI, SQL, MongoDB, Docker, Kubernetes, the terminal and more. Code runs straight in the browser, with built-in tests, textbooks, quizzes and final projects. Available in Czech and English.
-
-<p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/version-0.9.0--beta.6-8B5CF6?style=flat-square" alt="version 0.9.0-beta.6">
-</p>
-
-👉 **[Try it live](https://codebook-sandy.vercel.app)**
-
-### 🌐 Websites I've built
-
-- **[frantirybka.cz](https://frantirybka.cz)** — website for a personal fitness coach
-- **[remeslnepracelukas.cz](https://remeslnepracelukas.cz)** — website for a plumbing, heating & excavation business
-
-<br>
-
-## 🛠️ Tech I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,html,css&perline=7" alt="Frontend">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,prisma,supabase&perline=8" alt="Backend">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,linux,vscode&perline=7" alt="Tools">
-</p>
-
-<br>
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samirG333&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6" alt="GitHub streak">
-</p>
-
-<br>
-
-## 📫 Find me
-
-<p>
-  <a href="https://github.com/samirG333"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://codebook-sandy.vercel.app"><img src="https://img.shields.io/badge/CodeBook-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="CodeBook"></a>
-</p>
