@@ -32,7 +32,7 @@ A hands-on programming course with **257 tasks in 17 sections** — JavaScript, 
 ### 🌐 Websites I've built
 
 - **[frantirybka.cz](https://frantirybka.cz)** — website for a personal fitness coach
-- **[remeslnickepracelukas.cz](https://remeslnickepracelukas.cz)** — website for a local craftsman
+- **[remeslnepracelukas.cz](https://remeslnepracelukas.cz)** — website for a plumbing, heating & excavation business
 
 <br>
 
