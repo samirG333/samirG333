@@ -13,16 +13,10 @@
 
 <br><br>
 
-<img src="assets/stack.svg" width="100%" alt="Tech I work with: TypeScript, JavaScript, React, Next.js, Vite, HTML, CSS, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Prisma, Supabase, Git, GitHub, Docker, Kubernetes, Vercel, Linux, pnpm">
+<img src="assets/stack.svg" width="100%" alt="Tech I work with: TypeScript, JavaScript, React, Next.js, Tailwind CSS, shadcn/ui, HTML and CSS, Node.js, Express, Supabase, Cloudflare Workers, Vercel, Resend, Vite, Vitest, ESLint, Git, GitHub, pnpm">
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=samirG333&background=0B0C0F&border=1F2328&border_radius=22&stroke=2A2F37&ring=4ADE80&fire=4ADE80&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" width="58%" alt="GitHub streak">
-
-<br><br>
-
-<a href="https://github.com/samirG333"><img src="assets/btn-github.svg" height="52" alt="GitHub"></a>
-&nbsp;
-<a href="https://codebook-sandy.vercel.app"><img src="assets/btn-codebook.svg" height="52" alt="CodeBook"></a>
 
 </div>
